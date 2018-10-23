@@ -629,4 +629,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	span .clear{
 		font-size: 2em;
 	}
+	strong .phone{
+		color: #fff;
+	}
 }
