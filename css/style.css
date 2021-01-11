@@ -493,6 +493,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8eb640', end
 	font-size: 20px;
 	margin: 5px 0;
 }
+
+#call-reservation a {
+	color: #fff;
+}
+
+#call-reservation a:hover, a:focus {
+	text-decoration: none;
+	color: #222;
+}
+
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
