@@ -260,8 +260,9 @@ header .intro-text {
 	margin: 0 auto;
 }
 #restaurant-menu .menu-section {
-	margin: 0 20px 80px;
+	margin: 0 20px 30px;
 }
+
 #restaurant-menu .menu-section-title {
 	font-size: 26px;
 	display: block;
